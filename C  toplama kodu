@@ -3,4 +3,5 @@ main()
 int a=7,b=5,c;
 c=a*b-4;
 print(c)
+printf("aynısı")
 }
